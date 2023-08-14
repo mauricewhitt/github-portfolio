@@ -37,9 +37,3 @@ I am a passionate data enthusiast with a strong background in SQL, data analysis
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at [your.email@example.com](mailto:your.email@example.com).
 
 Thank you for visiting my repository! I hope you find these examples inspiring and informative.
-Remember to replace placeholders like [Example SQL Query 1], [Data Science Project 1], and [Power BI Dashboard 1] with actual titles and descriptions of your examples. Similarly, update the contact information and LinkedIn profile link to reflect your own details. Feel free to customize the sections, add more examples, or provide additional information as needed.
-
-
-
-
-
