@@ -11,7 +11,7 @@ github-portfolio
 
 In this section, you'll find a range of SQL queries that demonstrate my ability to retrieve, manipulate, and analyze data from relational databases. These queries cover various scenarios, from basic data extraction to more complex transformations.
 
-- [Olympic_2020_analysis.sql][(sql-examples/query1.sql)](https://github.com/mauricewhitt/github-portfolio/blob/main/Olympics_2020_analysis.sql): Performed Exploratory Data Analysis on the Olympics 2020 Dataset using SQL. With this, I discovered insights such as Top 10 Countries with the Highest number of participants, Top 10 Countries by number of medals won, etc..
+- [Olympic_2020_analysis.sql][(Olympic_2020_analysis.sql)](https://github.com/mauricewhitt/github-portfolio/blob/main/Olympics_2020_analysis.sql): Performed Exploratory Data Analysis on the Olympics 2020 Dataset using SQL. With this, I discovered insights such as Top 10 Countries with the Highest number of participants, Top 10 Countries by number of medals won, etc..
 
 
 ## Data Science Projects
