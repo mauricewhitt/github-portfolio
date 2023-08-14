@@ -5,6 +5,7 @@ github-portfolio
 - [SQL Queries](#sql-queries)
 - [Data Science Projects](#data-science-projects)
 - [Power BI Visualizations](#power-bi-visualizations)
+- 
 
 ## SQL Queries
 
