@@ -25,7 +25,7 @@ In the Data Science Projects section, I present projects that showcase my skills
 
 The Power BI Visualizations section features interactive dashboards and visualizations I've created using Power BI. These examples demonstrate my proficiency in translating data insights into compelling and informative visuals.
 
-- [Power BI Dashboard 1](power-bi-visualizations/dashboard1)https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf: Brief description of the dashboard and the data it visualizes.
+- [(Monkeypox2.pdf)](0https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf): Brief description of the dashboard and the data it visualizes.
 - [Power BI Dashboard 2](power-bi-visualizations/dashboard2): Brief description of the dashboard and the data it visualizes.
 
 ## About Me
