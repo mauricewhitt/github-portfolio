@@ -10,7 +10,7 @@ github-portfolio
 
 In this section, you'll find a range of SQL queries that demonstrate my ability to retrieve, manipulate, and analyze data from relational databases. These queries cover various scenarios, from basic data extraction to more complex transformations.
 
-- [Example SQL Query 1](sql-examples/query1.sql): Brief description of the query and its purpose.
+- [Olympic_2020_analysis.sql](sql-examples/query1.sql): Brief description of the query and its purpose.
 - [Example SQL Query 2](sql-examples/query2.sql): Brief description of the query and its purpose.
 
 ## Data Science Projects
