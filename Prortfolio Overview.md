@@ -11,14 +11,14 @@ github-portfolio
 
 In this section, you'll find a range of SQL queries that demonstrate my ability to retrieve, manipulate, and analyze data from relational databases. These queries cover various scenarios, from basic data extraction to more complex transformations.
 
-- [(Olympic_2020_analysis.sql)](https://github.com/mauricewhitt/github-portfolio/blob/main/Olympics_2020_analysis.sql): Performed Exploratory Data Analysis on the Olympics 2020 Dataset using SQL. With this, I discovered insights such as Top 10 Countries with the Highest number of participants, Top 10 Countries by number of medals won, etc..
+- [Olympic_2020_analysis](https://github.com/mauricewhitt/github-portfolio/blob/main/Olympics_2020_analysis.sql): Performed Exploratory Data Analysis on the Olympics 2020 Dataset using SQL. With this, I discovered insights such as Top 10 Countries with the Highest number of participants, Top 10 Countries by number of medals won, etc..
 
 
 ## Data Science Projects
 
 In the Data Science Projects section, I present projects that showcase my skills in data analysis, statistical modeling, and machine learning. These projects highlight my ability to derive insights from data and make data-driven decisions.
 
-- [Flights Data Exploration](data-science-projects/project1): real-world dataset containing flights data from the US Department of Transportation.
+- [Flights Data Exploration]([data-science-projects/project1](https://github.com/mauricewhitt/github-portfolio/blob/main/Flights%20Data%20Exploration%20Challenge.ipynb)): real-world dataset containing flights data from the US Department of Transportation.
 - [Data Science Project 2](data-science-projects/project2): Brief description of the project, the problem it addresses, and key findings.
 
 ## Power BI Visualizations
