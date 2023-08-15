@@ -18,7 +18,7 @@ In this section, you'll find a range of SQL queries that demonstrate my ability 
 
 In the Data Science Projects section, I present projects that showcase my skills in data analysis, statistical modeling, and machine learning. These projects highlight my ability to derive insights from data and make data-driven decisions.
 
-- [Data Science Project 1](data-science-projects/project1): Brief description of the project, the problem it addresses, and key findings.
+- [Flights Data Exploration](data-science-projects/project1): real-world dataset containing flights data from the US Department of Transportation.
 - [Data Science Project 2](data-science-projects/project2): Brief description of the project, the problem it addresses, and key findings.
 
 ## Power BI Visualizations
