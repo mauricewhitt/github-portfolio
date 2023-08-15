@@ -28,7 +28,7 @@ The Power BI Visualizations section features interactive dashboards and visualiz
 - [(Monkeypox2.pdf)](https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf): Brief description of the dashboard and the data it visualizes.
 - [Power BI Dashboard 2](power-bi-visualizations/dashboard2): Brief description of the dashboard and the data it visualizes.
 
-##python
+## python
 
 ## About Me
 
