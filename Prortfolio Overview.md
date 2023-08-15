@@ -18,14 +18,14 @@ In this section, you'll find a range of SQL queries that demonstrate my ability 
 
 In the Data Science Projects section, I present projects that showcase my skills in data analysis, statistical modeling, and machine learning. These projects highlight my ability to derive insights from data and make data-driven decisions.
 
-- [Flights Data Exploration](https://github.com/mauricewhitt/github-portfolio/blob/main/Flights%20Data%20Exploration%20Challenge.ipynb): real-world dataset containing flights data from the US Department of Transportation.
+- [Flights Data Exploration](https://github.com/mauricewhitt/github-portfolio/blob/main/Flights%20Data%20Exploration.ipynb): real-world dataset containing flights data from the US Department of Transportation.
 - [Data Science Project 2](data-science-projects/project2): Brief description of the project, the problem it addresses, and key findings.
 
 ## Power BI Visualizations
 
 The Power BI Visualizations section features interactive dashboards and visualizations I've created using Power BI. These examples demonstrate my proficiency in translating data insights into compelling and informative visuals.
 
-- [(Monkeypox2.pdf)](https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf): Brief description of the dashboard and the data it visualizes.
+- [(Monkeypox)](https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf): Brief description of the dashboard and the data it visualizes.
 - [Power BI Dashboard 2](power-bi-visualizations/dashboard2): Brief description of the dashboard and the data it visualizes.
 
 ## python
