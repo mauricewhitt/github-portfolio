@@ -20,7 +20,7 @@ In the Data Science Projects section, I present projects that showcase my skills
 
 - [Flights Data Exploration](https://github.com/mauricewhitt/github-portfolio/blob/main/Flights%20Data%20Exploration.ipynb): real-world dataset containing flights data from the US Department of Transportation.
 
-- [Data Science Project 2](data-science-projects/project2): Predicting the selling price of a residential property depends on a number of factors, including the property age, availability of local amenities, and location. The price-per-unit in this data is based on a unit measurement of 3.3 square meters.
+- [Real Estate Regression](https://github.com/mauricewhitt/github-portfolio/blob/main/Real%20Estate%20Regression.ipynb): Predicting the selling price of a residential property depends on a number of factors, including the property age, availability of local amenities, and location. The price-per-unit in this data is based on a unit measurement of 3.3 square meters.
 
 
 ## Power BI Visualizations
