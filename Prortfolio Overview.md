@@ -29,10 +29,17 @@ The Power BI Visualizations section features interactive dashboards and visualiz
 
 - [Bike Sales Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Bike%20Sales%20Report.pdf): Brief description of the dashboard and the data it visualizes.
 
-- [Monkeypox](https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf): Brief description of the dashboard and the data it visualizes.
-- [Power BI Dashboard 2](power-bi-visualizations/dashboard2): Brief description of the dashboard and the data it visualizes.
+- [Monkeypox Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf): Brief description of the dashboard and the data it visualizes.
+  
+- [Olympics 2020 Analysis Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Olympics%202020%20Analysis.pdf): Brief description of the dashboard and the data it visualizes.
 
 ## Python
+
+-[Examples of Inheritance and Polymorphism](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20Examples%20of%20Inheritance%20and%20Polymorphism.py)
+
+-[Examples of classes and objects](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20Examples%20of%20classes%20and%20objects.py)
+
+-[assigning values to variables](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20assigning%20values%20to%20variables.py)
 
 ## About Me
 
