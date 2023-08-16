@@ -47,6 +47,6 @@ I am a passionate data enthusiast with a strong background in SQL, data analysis
 
 ## Contact
 
-Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at [Teyilo19@gmail.com](mailto:your.email@example.com).
+Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at [Teyilo19@gmail.com](mailto:teyilo19@gmail.com).
 
 Thank you for visiting my repository! I hope you find these examples inspiring and informative.
