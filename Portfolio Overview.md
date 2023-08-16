@@ -24,7 +24,7 @@ In the Data Science Projects section, I present projects that showcase my skills
 
 - [Clustering](https://github.com/mauricewhitt/github-portfolio/blob/main/Clustering.ipynb):  identifies the number of discrete clusters present in the data, and create a clustering model that separates the data into that number of clusters.
 
-- [Wine][(https://github.com/mauricewhitt/github-portfolio/blob/main/Clustering.ipynb](https://github.com/mauricewhitt/github-portfolio/blob/main/wine.ipynb)): a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety)
+- [Wine](https://github.com/mauricewhitt/github-portfolio/blob/main/wine.ipynb): a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety)
 
 
 ## Power BI Visualizations
