@@ -35,11 +35,11 @@ The Power BI Visualizations section features interactive dashboards and visualiz
 
 ## Python
 
--[Examples of Inheritance and Polymorphism](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20Examples%20of%20Inheritance%20and%20Polymorphism.py)
+-[assigning values to variables](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20assigning%20values%20to%20variables.py)
 
 -[Examples of classes and objects](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20Examples%20of%20classes%20and%20objects.py)
 
--[assigning values to variables](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20assigning%20values%20to%20variables.py)
+-[Examples of Inheritance and Polymorphism](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20Examples%20of%20Inheritance%20and%20Polymorphism.py)
 
 ## About Me
 
@@ -47,6 +47,6 @@ I am a passionate data enthusiast with a strong background in SQL, data analysis
 
 ## Contact
 
-Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can contact me via email at [Teyilo19@gmail.com](mailto:your.email@example.com).
 
 Thank you for visiting my repository! I hope you find these examples inspiring and informative.
