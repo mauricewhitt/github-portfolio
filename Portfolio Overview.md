@@ -22,6 +22,10 @@ In the Data Science Projects section, I present projects that showcase my skills
 
 - [Real Estate Regression](https://github.com/mauricewhitt/github-portfolio/blob/main/Real%20Estate%20Regression.ipynb): Predicting the selling price of a residential property depends on a number of factors, including the property age, availability of local amenities, and location. The price-per-unit in this data is based on a unit measurement of 3.3 square meters.
 
+- [Clustering](https://github.com/mauricewhitt/github-portfolio/blob/main/Clustering.ipynb):  identifies the number of discrete clusters present in the data, and create a clustering model that separates the data into that number of clusters.
+
+- [Wine][(https://github.com/mauricewhitt/github-portfolio/blob/main/Clustering.ipynb](https://github.com/mauricewhitt/github-portfolio/blob/main/wine.ipynb)): a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety)
+
 
 ## Power BI Visualizations
 
