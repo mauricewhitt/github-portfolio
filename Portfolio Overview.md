@@ -47,7 +47,7 @@ The Power BI Visualizations section features interactive dashboards and visualiz
 
 ## About Me
 
-I am a passionate data enthusiast with a strong background in SQL, data analysis, and visualization. I enjoy exploring complex datasets and transforming them into actionable insights. Connect with me on [LinkedIn][(https://www.linkedin.com/in/maurice-w-8b2a3b112/)] to learn more about my journey and interests.
+I am a passionate data enthusiast with a strong background in SQL, data analysis, and visualization. I enjoy exploring complex datasets and transforming them into actionable insights. Connect with me on [LinkedIn](https://www.linkedin.com/in/maurice-w-8b2a3b112/) to learn more about my journey and interests.
 
 ## Contact
 
