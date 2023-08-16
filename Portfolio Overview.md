@@ -31,11 +31,11 @@ In the Data Science Projects section, I present projects that showcase my skills
 
 The Power BI Visualizations section features interactive dashboards and visualizations I've created using Power BI. These examples demonstrate my proficiency in translating data insights into compelling and informative visuals.
 
-- [Bike Sales Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Bike%20Sales%20Report.pdf): Brief description of the dashboard and the data it visualizes.
+- [Bike Sales Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Bike%20Sales%20Report.pdf): The Bike Sales Report consist of total orders, top 10 products by profit, profit by year, etc...
 
-- [Monkeypox Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf): Brief description of the dashboard and the data it visualizes.
+- [Monkeypox Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Monkeypox2.pdf): The Monkeypox Report consist of total cases of monkeyspox, top 10 countries by confirmed cases, top 10 countries by hospitalized cases, etc...
   
-- [Olympics 2020 Analysis Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Olympics%202020%20Analysis.pdf): Brief description of the dashboard and the data it visualizes.
+- [Olympics 2020 Analysis Report](https://github.com/mauricewhitt/github-portfolio/blob/main/Olympics%202020%20Analysis.pdf): The Olympics 2020 Analysis Report consist of number of participants, gender distribution, top 10 countries by medals won, etc...
 
 ## Python
 
