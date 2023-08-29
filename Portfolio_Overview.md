@@ -6,6 +6,7 @@ github-portfolio
 - [Data Science Projects](#data-science-projects)
 - [Power BI Visualizations](#power-bi-visualizations)
 - [Python](#python)
+- [JavaScript](#Object Notation)
 
 ## SQL Queries
 
