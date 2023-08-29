@@ -6,7 +6,7 @@ github-portfolio
 - [Data Science Projects](#data-science-projects)
 - [Power BI Visualizations](#power-bi-visualizations)
 - [Python](#python)
-- [JavaScript](#Object Notation)
+- [JavaScript](#JavaScript)
 
 ## SQL Queries
 
@@ -45,6 +45,8 @@ The Power BI Visualizations section features interactive dashboards and visualiz
 -[Examples of classes and objects](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20Examples%20of%20classes%20and%20objects.py)
 
 -[Examples of Inheritance and Polymorphism](https://github.com/mauricewhitt/github-portfolio/blob/main/%23%20Examples%20of%20Inheritance%20and%20Polymorphism.py)
+
+## JavaScript
 
 ## About Me
 
